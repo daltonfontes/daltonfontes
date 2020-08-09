@@ -1,6 +1,9 @@
-# Dalton Fontes 💻 
+# Hi, I'm Dalton Fontes 💻 
+
+### IT Student
 
 - 🌱 I’m currently learning python
+- 📫 How to reach me: (https://www.linkedin.com/in/daltonfontes/)
 
 <!--
 **daltonfontes/daltonfontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
