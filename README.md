@@ -2,9 +2,13 @@
 
 [<img src="https://img.icons8.com/color/25/000000/linkedin.png"/>](https://www.linkedin.com/in/daltonfontes/) [<img src="https://img.icons8.com/fluent/25/000000/twitter.png"/>](https://twitter.com/FontesDalton)
 
-#### _IT Student_
+##### IT Student
 
 - 🌱 I’m currently learning python
+
+~~~php
+Esta é uma linha de código em PHP.
+~~~
 
 <!--
 **daltonfontes/daltonfontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
