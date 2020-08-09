@@ -1,6 +1,5 @@
 # Dalton Fontes 💻 
 
-[https://img.shields.io/endpoint?url=<URL>&style<STYLE>]
 - 🌱 I’m currently learning python
 
 <!--
