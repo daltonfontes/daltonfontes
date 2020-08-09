@@ -3,7 +3,7 @@
 ### IT Student
 
 - 🌱 I’m currently learning python
-- 📫 How to reach me: [LinkedIn](<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>)(https://www.linkedin.com/in/daltonfontes/)
+- 📫 How to reach me: [LinkedIn <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/daltonfontes/)
 
 <!--
 **daltonfontes/daltonfontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
