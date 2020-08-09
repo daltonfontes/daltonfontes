@@ -1,9 +1,10 @@
 # Hi, I'm Dalton Fontes 💻 
 
+[<img src="https://img.icons8.com/color/25/000000/linkedin.png"/>](https://www.linkedin.com/in/daltonfontes/)
+
 ### IT Student
 
 - 🌱 I’m currently learning python
-- 📫 How to reach me: [<img src="https://img.icons8.com/color/25/000000/linkedin.png"/>](https://www.linkedin.com/in/daltonfontes/)
 
 <!--
 **daltonfontes/daltonfontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
