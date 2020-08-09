@@ -2,7 +2,7 @@
 
 [<img src="https://img.icons8.com/color/25/000000/linkedin.png"/>](https://www.linkedin.com/in/daltonfontes/) [<img src="https://img.icons8.com/fluent/25/000000/twitter.png"/>](https://twitter.com/FontesDalton)
 
-### IT Student
+#### IT Student
 
 - 🌱 I’m currently learning python
 
