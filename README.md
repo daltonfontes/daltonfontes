@@ -1,5 +1,4 @@
 # Dalton Fontes 💻 
-_______________________________
 
 
 - 🌱 I’m currently learning python
