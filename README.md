@@ -1,6 +1,6 @@
 # Hi, I'm Dalton Fontes 💻 
 
-[<img src="https://img.icons8.com/color/25/000000/linkedin.png"/>](https://www.linkedin.com/in/daltonfontes/) [<img src="https://img.icons8.com/fluent/25/000000/twitter.png"/>](https://twitter.com/FontesDalton)[<img src="https://img.icons8.com/fluent/48/000000/twitch.png"/>](https://www.twitch.tv/daltaodev)
+[<img src="https://img.icons8.com/color/30/000000/linkedin.png"/>](https://www.linkedin.com/in/daltonfontes/) [<img src="https://img.icons8.com/fluent/30/000000/twitter.png"/>](https://twitter.com/FontesDalton)[<img src="https://img.icons8.com/fluent/30/000000/twitch.png"/>](https://www.twitch.tv/daltaodev)
 
 ##### IT Student
 
