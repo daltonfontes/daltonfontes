@@ -1,6 +1,6 @@
 # Dalton Fontes 💻 
 
-
+[https://www.linkedin.com/in/daltonfontes/]
 - 🌱 I’m currently learning python
 
 <!--
