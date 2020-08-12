@@ -5,6 +5,7 @@
 ##### IT Student
 
 - 🌱 I’m currently learning Python & SQL
+- 💬 Ask me about [issues](https://github.com/daltonfontes/daltonfontes/issues)
 
 ![Dalton github stats](https://github-readme-stats.vercel.app/api?username=daltonfontes&theme=dark&show_icons=true)
 
