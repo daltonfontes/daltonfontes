@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning python
 
-
+![Dalton github stats](https://github-readme-stats.vercel.app/api?username=daltonfontes&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daltonfontes)](https://github.com/daltonfontes/github-readme-stats)
 
 
