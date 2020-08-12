@@ -4,7 +4,7 @@
 
 ##### IT Student
 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Python & SQL
 
 ![Dalton github stats](https://github-readme-stats.vercel.app/api?username=daltonfontes&theme=dark&show_icons=true)
 
