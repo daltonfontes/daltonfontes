@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-👯 I’m looking to collaborate on open-sources projects<br>🌱 I’m currently learning PHP POO
+👯 I’m looking to collaborate on open-sources projects<br>🌱 I’m currently learning Design Pattners
 
 
 ## 🌐 Socials:
