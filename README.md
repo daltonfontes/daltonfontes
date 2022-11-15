@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
-👯 I’m looking to collaborate on open-sources projects<br>
-
-
 <a href="https://app.daily.dev/daltao"><img src="https://api.daily.dev/devcards/4a05107623fc476d80650b3288fca076.png?r=1nj" width="400" alt="Dalton Fontes's Dev Card"/></a>
 
 ## 🌐 Socials:
