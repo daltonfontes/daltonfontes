@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 👯 I’m looking to collaborate on open-sources projects<br>
 
 
+<a href="https://app.daily.dev/daltao"><img src="https://api.daily.dev/devcards/4a05107623fc476d80650b3288fca076.png?r=1nj" width="400" alt="Dalton Fontes's Dev Card"/></a>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daltonfontes) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/daltaotv) 
 
